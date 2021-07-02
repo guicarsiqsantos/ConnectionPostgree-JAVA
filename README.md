@@ -18,7 +18,7 @@ Desenvolvido uma aplicação em JAVA. Este projeto foi desenvolvido com a inten�
 # Resultado
 
 <h1 align="center">
-   <img src="./docs/Tela1.png">
+   <img src="https://user-images.githubusercontent.com/70959791/124297421-6c319000-db31-11eb-9068-539f8387540c.png">
     <br />
     <br />
    <img src="./docs/Tela2.png">
