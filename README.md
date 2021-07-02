@@ -17,10 +17,10 @@ Desenvolvido uma aplicação em JAVA. Este projeto foi desenvolvido com a inten�
 <br />
 # Resultado
 
-<h1 align="center">
+<p align="center">
    <img src="https://user-images.githubusercontent.com/70959791/124297560-92efc680-db31-11eb-941f-88b9912fcee3.png">
-    <br />
-# Codigo de Conexão    
-    <br />
+</p>
+# Codigo da Conexão
+<p>
    <img src="https://user-images.githubusercontent.com/70959791/124297421-6c319000-db31-11eb-9068-539f8387540c.png">
-</h1>
+</p>
